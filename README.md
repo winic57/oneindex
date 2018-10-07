@@ -4,7 +4,7 @@ Onedrive Directory Index
 ## 功能：
 不用服务器空间，不走服务器流量，  
 
-直接列onedrive目录，文件直链下载。  
+直接列onedrive目录，提供文件直链下载。  
 
 ## demo
 [https://xn.tn](https://xn.tn)  
